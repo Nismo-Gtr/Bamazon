@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0",
+    "prompt": "^1.0.0"
+  }
+}
