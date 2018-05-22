@@ -9,19 +9,19 @@ As long as it is one of the ten items we carry that is.</h2>
 <h2>Good question!</h2>
 
 <h2>To order you must first call our program using "node bamazonCustomer.js"
-You will then be shown a list of the items that we carry
+You will then be shown a list of the items that we carry</h2>
 
 ![](./Bamazon-2.png?raw=true)
 
-To select an item all you need to do is type the product ID located on the left</h2>
+<h2>To select an item all you need to do is type the product ID located on the left</h2>
 
 <h1>Next Step!!!!!!!</h1>
 
 ![](./Bamazon-1.png?raw=true)
 
-<h2>You will then be asked how many you would like</h2>
-<h2>If your desired quantity is less than what is left in stock,</h2>
-<h2>the total will be calculated</h2>
+<h2>You will then be asked how many you would like
+If your desired quantity is less than what is left in stock,
+the total will be calculated</h2>
 
 
 ![](./Bamazon-3.png?raw=true)
