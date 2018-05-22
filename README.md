@@ -1,11 +1,11 @@
 # Bamazon
 <h1>Welcome to Bamazon!</h1>
-----------------------------
+
 <h2>This is your one stop shop for everything that you can imagine!
 As long as it is one of the ten items we carry that is.</h2>
 
 <h1>How do I order?</h1>
-------------------------
+
 <h2>Good question!</h2>
 
 <h2>To order you must first call our program using "node bamazonCustomer.js"
