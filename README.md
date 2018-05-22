@@ -29,6 +29,6 @@ If not, you will receive a message indicated there is not enough</h2>
 
 <h1>And You're Done! Great Job! You should buy more stuff!</h1>
 
-<img src="https://media.giphy.com/media/3b9O6beAoie8cNRvq0/giphy.gif"></img>
+<img src="https://media.giphy.com/media/3b9O6beAoie8cNRvq0/giphy.gif" width="800" height="auto"></img>
 
 
