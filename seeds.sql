@@ -1,0 +1,10 @@
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Bamazon Becho", "Electronics", 74.99, 21);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Bamazon Becho Dot", "Electronics", 29.99, 44);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Grass Fed Whey", "Food/Nutrition", 99.99, 5);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Blif Grass Fed Whey Energy Bars", "Food/Nutrition", 19.99, 34);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Batorade", "Food/Nutrition", 14.99, 25);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Bire Tablet", "Electronics", 49.99, 35);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Kettle Bell 44lb", "Sporting Goods", 79.99, 27);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Fishing Pols", "Sporting Goods", 129.99, 14);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("SuperGreen Whole Food Supplement", "Food/Nurtition", 99.99, 80);
+INSERT INTO products (product_name, department_name, price, quantity) VALUES ("Bamazon Becho Dot 3-Pack", "Electronics", 64.99, 21);
